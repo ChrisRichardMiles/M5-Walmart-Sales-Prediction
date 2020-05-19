@@ -55,7 +55,4 @@ Table 1: Number of M5 series per aggregation level.
 | 10       | Unit sales of product x, aggregated for all stores/states             | 3,049       |
 | 11       | Unit sales of product x, aggregated for each State                    | 9,147       |
 | 12       | Unit sales of product x, aggregated for each store                    | 30,490      |
-
-
-
- ||Total | 42,840 | 
+|          | **Total**                                                             | 42,840      | 
