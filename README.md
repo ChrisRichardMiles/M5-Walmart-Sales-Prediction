@@ -32,16 +32,12 @@ intervals (PIs).
 The dataset
 The M5 dataset, generously made available by Walmart, involves the unit sales of various products sold
 in the USA, organized in the form of grouped time series. More specifically, the dataset involves the unit
-sales of 3,075 products, classified in 3 product categories (Hobbies, Foods, and Household) and 7 product
+sales of 3,049 products, classified in 3 product categories (Hobbies, Foods, and Household) and 7 product
 departments, in which the above-mentioned categories are disaggregated. The products are sold across
 10 stores, located in 3 States (CA, TX, and WI). In this respect, the bottom-level of the hierarchy, i.e.,
 product-store unit sales, can be mapped either across product categories or geographical regions, as
 follows:
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 Table 1: Number of M5 series per aggregation level.
 
@@ -62,4 +58,4 @@ Table 1: Number of M5 series per aggregation level.
 
 
 
- Total 42,840
+ ||Total | 42,840 | 
