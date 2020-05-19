@@ -44,7 +44,9 @@ follows:
 | Paragraph   | Text        |
 
 Table 1: Number of M5 series per aggregation level.
+
 | Level id | Aggregation Level Number                                              | # of series |
+| -------- | --------------------------------------------------------------------- | ----------- |
 | 1        | Unit sales of all products, aggregated for all stores/states          | 1           |
 | 2        | Unit sales of all products, aggregated for each State                 | 3           |
 | 3        | Unit sales of all products, aggregated for each store                 | 1           |
@@ -60,4 +62,4 @@ Table 1: Number of M5 series per aggregation level.
 
 
 
-|| Total || 42,840|
+ Total 42,840
