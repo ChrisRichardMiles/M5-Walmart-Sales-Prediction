@@ -1,4 +1,7 @@
 # M5-Walmart-Sales-Prediction
+This is a hierarchical time series case study. We will research and implement machine learning methods, as well as statistical methods, in search of the highest performing model, or ensemble of models, with respect to the M5 competition dataset and scoring metric. Although we will be researching methods implemented on various time series datasets, the focus of this case study will be to find a methodology that specifically minimizes the WRMSSE. 
+
+
 This repository documents my approach in the Kaggle/M-series hierarchical time series competition, predicting Walmart sales over a 28 day horizon.
 
 # Objective
