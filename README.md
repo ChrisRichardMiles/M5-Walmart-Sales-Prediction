@@ -38,6 +38,11 @@ departments, in which the above-mentioned categories are disaggregated. The prod
 product-store unit sales, can be mapped either across product categories or geographical regions, as
 follows:
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 Table 1: Number of M5 series per aggregation level.
 Level
 id
