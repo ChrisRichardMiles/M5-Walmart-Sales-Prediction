@@ -1,5 +1,8 @@
 # M5-Walmart Sales Prediction
-This is a case study of the [M5 competition](https://www.kaggle.com/c/m5-forecasting-accuracy), which is a hierarchical time series competition hosted on kaggle. The purpose of this repository is to document my journey in solving the problem posed by the M5 competition. Although I have no direct partners in this project, all competition participants who contributed during the competition deserve credit for my work be
+This is a case study of the [M5 competition](https://www.kaggle.com/c/m5-forecasting-accuracy), which is a hierarchical time series competition hosted on kaggle. The purpose of this repository is to document what I have learned and implemented while competing in the M5 competition. In terms of a data science project, this repository will focus on building models.
+
+### A note about using others ideas and code
+I am making this while the competition is ongoing, and my goal is build the best model that I can. Therefore I must learn how to implement useful techniques as quickly as possible. To that end, I study papers, discussions, other competition solutions, public discussions and kernals posted on the M5 kaggle comptetition page. I borrow many ideas and techniques from others, but I will always cite them. When I find code that I find useful, I study it until I understand it fully enough that I can recreate on my own without looking at it. Therefore this repository is not a representation of what I could build from scratch at the beginning of the comptetion, but a collection of the ideas and techniques that I have internalized and attempted to advance.  
 
 
 
