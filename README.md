@@ -1,5 +1,9 @@
 # M5-Walmart Sales Prediction
-This is a case study of my efforts in the M5 competitions, both hosted on kaggle. The [accuracy competiton](https://www.kaggle.com/c/m5-forecasting-accuracy) asks for the point forecasts of product sales, aggregaged accross 12 levels, and the [uncertainty competition] asks for prediction confidence intervals of product sales, aggregated across the same 12 levels. I will research and implement machine learning methods, as well as statistical methods, in search of the highest performing model, or ensemble of models, with respect to the M5 competition dataset and scoring metric. Although we could define various business objectives and performance metrics, the focus of this case study will be to find a methodology that specifically minimizes the competition metrics, as outlined in the competition guidlines. 
+This is a case study of the [M5 competition](https://www.kaggle.com/c/m5-forecasting-accuracy), which is a hierarchical time series competition hosted on kaggle. The purpose of this repository is to document my journey in solving the problem posed by the M5 competition. Although I have no direct partners in this project, all competition participants who contributed during the competition deserve credit for my work be
+
+
+
+both hosted on kaggle. The [accuracy competiton](https://www.kaggle.com/c/m5-forecasting-accuracy) asks for the point forecasts of product sales, aggregaged accross 12 levels, and the [uncertainty competition] asks for prediction confidence intervals of product sales, aggregated across the same 12 levels. I will research and implement machine learning methods, as well as statistical methods, in search of the highest performing model, or ensemble of models, with respect to the M5 competition dataset and scoring metric. Although we could define various business objectives and performance metrics, the focus of this case study will be to find a methodology that specifically minimizes the competition metrics, as outlined in the competition guidlines. 
 
 
 # Objective
